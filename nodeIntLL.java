@@ -1,5 +1,5 @@
 
-public class nodeIntLL {
+public class nodeIntLL { 		//linked list show up in interview questions
 	
 	Node head = null;
 	Node tail = null;
